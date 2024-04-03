@@ -1,0 +1,146 @@
+[
+  {
+    "Questions": "Your Height?",
+    "VATTA": "Short",
+    "PITTA": "Normal",
+    "KAPPA": "Tall"
+  },
+  {
+    "Questions": "Your Weight?",
+    "VATTA": "Underweight",
+    "PITTA": "Normal",
+    "KAPPA": "Overweight"
+  },
+  {
+    "Questions": "Your Voice?",
+    "VATTA": "Harsh",
+    "PITTA": "Thin",
+    "KAPPA": "Heavy"
+  },
+  {
+    "Questions": "Your Hair colour?",
+    "VATTA": "Grey",
+    "PITTA": "Very black",
+    "KAPPA": "Normal"
+  },
+  {
+    "Questions": "Your Iris colour?",
+    "VATTA": "Blue/dark Brown",
+    "PITTA": "Black",
+    "KAPPA": "Brown"
+  },
+  {
+    "Questions": "Your Pulse?",
+    "VATTA": "Uncertain/ Fast",
+    "PITTA": "Normal",
+    "KAPPA": "Normal/ Slow"
+  },
+  {
+    "Questions": "Your Muscle?",
+    "VATTA": "Thin",
+    "PITTA": "Normal",
+    "KAPPA": "Fat/ Thick"
+  },
+  {
+    "Questions": "Your Tendom reflex?",
+    "VATTA": "Fast",
+    "PITTA": "Moderate",
+    "KAPPA": "Slow"
+  },
+  {
+    "Questions": "Your Pain on pressing?",
+    "VATTA": "Maximum",
+    "PITTA": "Moderate",
+    "KAPPA": "Low"
+  },
+  {
+    "Questions": "Your Bones?",
+    "VATTA": "Thin/Fragile",
+    "PITTA": "Normal",
+    "KAPPA": "Thick & Strong"
+  },
+  {
+    "Questions": "Your Pulse character?",
+    "VATTA": "Leech/Snake",
+    "PITTA": "Normal",
+    "KAPPA": "Pigeon / Swan"
+  },
+  {
+    "Questions": "Your Sleeping schedule?",
+    "VATTA": "Less",
+    "PITTA": "Normal",
+    "KAPPA": "Over"
+  },
+  {
+    "Questions": "Your Temperament?",
+    "VATTA": "Not in decisions",
+    "PITTA": "Angry in decisions",
+    "KAPPA": "Constant in decisions"
+  },
+  {
+    "Questions": "Your Power level?",
+    "VATTA": "Less",
+    "PITTA": "Normal",
+    "KAPPA": "High"
+  },
+  {
+    "Questions": "Your Body Frame?",
+    "VATTA": "Thin",
+    "PITTA": "Moderate",
+    "KAPPA": "Thick/strong"
+  },
+  {
+    "Questions": "Your Skin?",
+    "VATTA": "Dry/rough/ cool",
+    "PITTA": "Soft/oily/fair",
+    "KAPPA": "Thick/oily/ white"
+  },
+  {
+    "Questions": "Your Hair?",
+    "VATTA": "Dry/easy to break",
+    "PITTA": "Soft/oily",
+    "KAPPA": "Thick/wavy/straight"
+  },
+  {
+    "Questions": "Your Teeth?",
+    "VATTA": "big & crooked/gums emeciated",
+    "PITTA": "Soft gums/yellowish",
+    "KAPPA": "Strong/white"
+  },
+  {
+    "Questions": "Your Eyes?",
+    "VATTA": "Small/dull",
+    "PITTA": "Sharp/shiny ",
+    "KAPPA": "Big/attractive "
+  },
+  {
+    "Questions": "Your  Preffered taste?",
+    "VATTA": "Salty/sour/sweet",
+    "PITTA": "Sweet/bitter/ astringent",
+    "KAPPA": "Pungent/bitter/astringent"
+  },
+  {
+    "Questions": " Your Physical activity?",
+    "VATTA": "Very active",
+    "PITTA": "Moderate",
+    "KAPPA": "Lethargic"
+  },
+  {
+    "Questions": "Your Mindset whole day?",
+    "VATTA": "Active/nervous",
+    "PITTA": "Aggressive/analytical",
+    "KAPPA": "Calm/dullness"
+  },
+  {
+    "Questions": "Your Memory power?",
+    "VATTA": "Quick to understand/perceive",
+    "PITTA": "Sharp/moderate to percieve",
+    "KAPPA": "Slow percieve but prolonged memory"
+  },
+  {
+    "Questions": "Your Quality of Nails?",
+    "VATTA": "Dry/Thin",
+    "PITTA": "Soft/pink ",
+    "KAPPA": "Thick/soft"
+  }
+]
